@@ -1,8 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Palette+Mosaic&display=swap');
 .responsive {
     width: 100%;
     height: auto;
   }
   
   #title {
-    align-item: center;
+    text-align: center;
+    font-family: Lobster, sans-serif;
   }
+
+  #img-caption {
+    text-align: center;
+  }
+
+  .info-btn {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    padding: 3px 3px;
+    text-align: center;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 4px;
+    cursor: pointer;
+}

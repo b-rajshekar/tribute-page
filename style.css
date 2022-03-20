@@ -9,6 +9,16 @@
     font-family: Lobster, sans-serif;
   }
 
+  body {
+    background-color: rgb(243, 243, 231);
+    font-size: 18px;
+  }
+
+  #tribute-info {
+   font-family: sans-serif;
+   text-align: start;
+  }
+
   #image {
     height: 70%;
     width: 70%;
@@ -33,7 +43,7 @@
   }
 
   .info-btn {
-    background-color: white;
+    background-color: rgb(243, 243, 231);
     border: 1px solid black;
     color: black;
     padding: 3px 3px;

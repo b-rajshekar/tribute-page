@@ -1,57 +1,60 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Palette+Mosaic&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Palette+Mosaic&display=swap");
 .responsive {
-    width: 100%;
-    height: auto;
-  }
-  
-  #title {
-    text-align: center;
-    font-family: Lobster;
-  }
-
-  body {
-    font-size: 20px;
-  }
-
-  #tribute-info {
-   font-family: sans-serif;
-   text-align: start;
-  }
-
-  #image {
-    height: 70%;
-    width: 70%;
-    border-radius: 10px;
-  }
-
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-
-  #image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-  }
-
-  #img-caption {
-    text-align: center;
-  }
-
-  .info-btn {
-    border: 1px solid black;
-    color: black;
-    padding: 3px 3px;
-    text-align: center;
-    display: inline-block;
-    font-size: 12px;
-    margin: 4px 4px;
-    cursor: pointer;
+  width: 100%;
+  height: auto;
 }
 
+#title {
+  text-align: center;
+  font-family: Lobster;
+}
+
+body {
+  font-size: 20px;
+}
+
+#tribute-info {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#image {
+  height: 40%;
+  width: 40%;
+  border-radius: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+.info-btn {
+  border: 1px solid black;
+  color: black;
+  padding: 3px 3px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 4px;
+  cursor: pointer;
+}
 
 /* Art work section */
 
